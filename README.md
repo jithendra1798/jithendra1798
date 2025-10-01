@@ -52,15 +52,12 @@
 - 🎖 JEE Mains Rank **2683** / Advanced Rank **6111** (Top 0.2% in India)  
 - 🎖 Qualcomm Multiverse Hackathon @ Princeton (2025) – Built edge-cloud CV + recipe LLM pipeline  
 - 🎖 NYU Graduate Student Council Candidate (Programming Commissioner, 2025)  
-- 🎖 Academic publications + active Computer Vision research collaborations   -->
+- 🎖 Academic publications + active Computer Vision research collaborations 
 
----
+---  -->
 
 ## 📊 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=jithendra1798&theme=tokyonight)
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jithendra1798?cardType=github&preferLogin=false&theme=tokyonight)
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&layout=compact&theme=tokyonight" />
@@ -68,10 +65,13 @@
   <img height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/jithendra1798?cardType=github&preferLogin=false&theme=tokyonight" />
 </p>
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=jithendra1798&theme=tokyonight)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jithendra1798?cardType=github&preferLogin=false&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&layout=compact&theme=tokyonight)  
 ![Jithendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithendra1798&show_icons=true&theme=tokyonight&hide=html,css,js)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  -->
 
 
 
