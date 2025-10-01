@@ -1,13 +1,11 @@
 # Hi, I'm Jithendra 👋  
 
-![Profile Views](https://komarev.com/ghpvc/?username=JithendraPuppala&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=jithendra1798&color=blueviolet)
 
 ## 🚀 About Me  
-🎓 MS in Computer Science @ [NYU Tandon](https://engineering.nyu.edu/)  
+🎓 MS in Computer Science @ [NYU](https://engineering.nyu.edu/)  
 💻 Data Scientist (2+ years @ Jio Platforms) | AI/ML | Computer Vision | Data Science | MLOps  
-🌱 Passionate about AI research, CV, digital-twin healthcare systems  
-🎯 Future Goals: Research Leader in AI/ML + Harvard MBA Aspirant  
-🌍 First-generation student from rural India  
+🌱 Passionate about AI research, Computer Vision
 
 ---
 
@@ -41,29 +39,29 @@
 
 ---
 
-## 🏆 Achievements  
+<!--## 🏆 Achievements  
 
 - 🎖 JEE Mains Rank **2683** / Advanced Rank **6111** (Top 0.2% in India)  
 - 🎖 Qualcomm Multiverse Hackathon @ Princeton (2025) – Built edge-cloud CV + recipe LLM pipeline  
 - 🎖 NYU Graduate Student Council Candidate (Programming Commissioner, 2025)  
-- 🎖 Academic publications + active Computer Vision research collaborations  
+- 🎖 Academic publications + active Computer Vision research collaborations   -->
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Jithendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=JithendraPuppala&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JithendraPuppala&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=JithendraPuppala&theme=tokyonight)  
+![Jithendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithendra1798&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=jithendra1798&theme=tokyonight)  
 
 ---
 
 ## 📬 Connect with Me  
 
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://jithendra.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jithendra-puppala)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jithendra@example.com)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://kaggle.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jithendra-siddartha)  
+<!--[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jithendra.mail.me@gmail.com)  -->
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)]([https://kaggle.com/](https://www.kaggle.com/jithendrapuppala))  
 
 ---
 
