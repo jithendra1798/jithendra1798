@@ -2,6 +2,19 @@
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://jithendra.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jithendrapuppala)
 
+<p align="center">
+  <a href="https://linkedin.com/in/jithendra-siddartha">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://jithendra.com">
+    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="https://www.kaggle.com/jithendrapuppala">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" />
+  </a>
+</p>
+
+
 # Hi, I'm Jithendra 👋  ![Profile Views](https://komarev.com/ghpvc/?username=jithendra1798&color=blueviolet)
 
 🎓 MS in Computer Science @ [NYU](https://engineering.nyu.edu/)  
