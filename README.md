@@ -5,8 +5,6 @@
 # Hi, I'm Jithendra 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jithendra1798&color=blueviolet)
-
-## 🚀 About Me  
 🎓 MS in Computer Science @ [NYU](https://engineering.nyu.edu/)  
 💻 Data Scientist (2+ years @ Jio Platforms) | AI/ML | Computer Vision | Data Science | MLOps  
 🌱 Passionate about AI research, Computer Vision
