@@ -62,6 +62,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jithendra1798&theme=tokyonight)
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jithendra1798?cardType=github&preferLogin=false&theme=tokyonight)
 
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=jithendra1798&theme=tokyonight" />
+  <img height="150" src="https://awesome-github-stats.azurewebsites.net/user-stats/jithendra1798?cardType=github&preferLogin=false&theme=tokyonight" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&layout=compact&theme=tokyonight)  
 ![Jithendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithendra1798&show_icons=true&theme=tokyonight&hide=html,css,js)
