@@ -11,12 +11,10 @@
 💻 Data Scientist (2+ years @ Jio Platforms) | AI/ML | Computer Vision | Data Science | MLOps  
 🌱 Passionate about AI research, Computer Vision
 
+<!--
 ---
-
 ## 📬 Connect with Me  
-
-<!--[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jithendra.mail.me@gmail.com)  --> 
-
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jithendra.mail.me@gmail.com)  --> 
 ---
 
 ## ⚡ Tech Stack  
