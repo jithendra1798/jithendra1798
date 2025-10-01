@@ -59,8 +59,8 @@
 
 ## 📊 GitHub Stats  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&layout=compact&theme=tokyonight)  
 ![Jithendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithendra1798&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jithendra1798&theme=tokyonight)
 
 
