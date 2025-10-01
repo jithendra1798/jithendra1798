@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&layout=compact&theme=tokyonight)  
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jithendra1798?cardType=github&preferLogin=false)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jithendra1798?cardType=github&preferLogin=false&theme=tokyonight)
 ![Jithendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithendra1798&show_icons=true&theme=tokyonight&hide=html,css,js)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithendra1798&hide=html,css,javascript&layout=compact&theme=tokyonight)
