@@ -61,7 +61,7 @@
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://jithendra.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jithendra-siddartha)  
 <!--[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jithendra.mail.me@gmail.com)  -->
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)]([https://kaggle.com/](https://www.kaggle.com/jithendrapuppala))  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jithendrapuppala)  
 
 ---
 
