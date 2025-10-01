@@ -2,9 +2,8 @@
 [![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome)](https://jithendra.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/jithendrapuppala)
 
-# Hi, I'm Jithendra 👋  
+# Hi, I'm Jithendra 👋  ![Profile Views](https://komarev.com/ghpvc/?username=jithendra1798&color=blueviolet)
 
-![Profile Views](https://komarev.com/ghpvc/?username=jithendra1798&color=blueviolet)
 🎓 MS in Computer Science @ [NYU](https://engineering.nyu.edu/)  
 💻 Data Scientist (2+ years @ Jio Platforms) | AI/ML | Computer Vision | Data Science | MLOps  
 🌱 Passionate about AI research, Computer Vision
